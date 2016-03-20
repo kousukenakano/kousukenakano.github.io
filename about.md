@@ -7,4 +7,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kou@onetime.top](mailto:kou@onetime.top)
