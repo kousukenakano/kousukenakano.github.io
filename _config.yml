@@ -9,7 +9,7 @@ name: onetime.top
 description: Web Drifter
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/kousukenakano/kousukenakano.github.io/master/images/jekyll.png
+avatar: {{ site.baseurl }}/images/Jekyll.png
 
 #
 # Flags below are optional
