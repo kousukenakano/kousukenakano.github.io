@@ -7,6 +7,6 @@ test
 
 <!-- ### Contact me -->
 
-[](
+
 [kou@onetime.top](mailto:kou@onetime.top)
-)
+
